@@ -13,3 +13,5 @@ In case the levels are too difficult, you can use the following buttons to seed 
 5. Hold DOWN, press START: Seeded to the cutscene before the victory screen. (You cheater)
 
 Image credits go to park jae-cheol, yakkun, and hiko (hikosama).
+
+To launch the game, load up Entangled.gba in any gameboy emulator of your choice.
